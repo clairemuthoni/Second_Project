@@ -9,4 +9,4 @@ ministries we will find out which ministry are mostly funnded what is the highes
 given, and how they allocate it. 
 
 ## Assumptions 
-However we will assume that 
+However we will assume that the data is accurate and true. 
